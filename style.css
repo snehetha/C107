@@ -1,0 +1,21 @@
+.header_div{
+background: rgb(24, 23, 23);
+color: rgb(54, 233, 233);
+}
+body{
+    background: rgb(252, 184, 196);
+    color:rgba(0, 0, 0, 0.664);
+    font-family: 'Dancing Script', cursive;
+}
+.header_div p{
+    letter-spacing: 2px;
+    font-size: 14px;
+    font-weight: bolder;
+}
+.copyright_div{
+    background: rgb(13, 13, 151);
+    color: rgb(238, 159, 201);
+}
+#logo{
+    border-radius: 50%;
+}
